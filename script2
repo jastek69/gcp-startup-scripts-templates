@@ -1,4 +1,4 @@
-#Thanks to Remo
+#Thanks to Remo original author and Beron the Demonhunter
 #!/bin/bash
 # Update and install Apache2
 apt update
@@ -21,7 +21,7 @@ network_tags=$(curl -H "${METADATA_FLAVOR_HEADER}" -s "${METADATA_URL}/instance/
 # Create a simple HTML page and include instance details
 cat <<EOF > /var/www/html/index.html
 <html><body>
-<h2>Welcome to your custom website.</h2>
+<h2>Welcome to The Brotherhood of Evil jerMutants!</h2>
 <h3>Created with a direct input startup script!</h3>
 <p><b>Instance Name:</b> $(hostname -f)</p>
 <p><b>Instance Private IP Address: </b> $local_ipv4</p>
