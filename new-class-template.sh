@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url("https://t4.ftcdn.net/jpg/10/03/77/43/240_F_1003774374_B9iLMZVzoe6ZHasvQf7EVoKBW7xzkJyF.jpg");
+      background-image: url("https://wallpapers.com/images/hd/ohio-state-football-lwzuypvdagp3hyv1.jpg");
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,12 +56,12 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://wallpapers.com/images/hd/ohio-state-football-lwzuypvdagp3hyv1.jpg"
+      <iframe src="   https://t4.ftcdn.net/jpg/10/03/77/43/240_F_1003774374_B9iLMZVzoe6ZHasvQf7EVoKBW7xzkJyF.jpg"
               width="500"
               height="270"
               style="border-radius:10px;"
               frameBorder="0"
-              class="giphy-embed"
+              
               allowFullScreen>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
@@ -75,8 +75,8 @@ cat <<EOF > /var/www/html/index.html
       </h3>
     </div>
     <div class="w3-display-bottomleft w3-padding-small transparent-background outlined-text">
-      <h1>"I, Blackneto, thank you, Theo and Beron!"</h1>
-      <h3></h3>
+      <h1>"I, John Sweeney, thank you, Theo and Beron!"</h1>
+      <h3>Team Group Leader is I, Blackneto of the Brotherhood of Evil jerMutants</h3>
       <p><b>Instance Name:</b> $(hostname -f)</p>
       <p><b>Instance Private IP Address: </b> $local_ipv4</p>
       <p><b>Zone: </b> $zone</p>
