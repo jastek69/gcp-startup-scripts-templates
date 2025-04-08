@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url("https://wallpapers.com/images/hd/ohio-state-football-lwzuypvdagp3hyv1.jpg");
+      background-image: url("https://as1.ftcdn.net/v2/jpg/05/84/83/28/1000_F_584832819_iy1VULIfcOxeLu8VdXEq2BSLdHNdqNwR.jpg");
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="   https://t4.ftcdn.net/jpg/10/03/77/43/240_F_1003774374_B9iLMZVzoe6ZHasvQf7EVoKBW7xzkJyF.jpg"
+      <iframe src="https://i.pinimg.com/564x/0f/1d/78/0f1d7841ce190cc796e6ea61f268edac.jpg"
               width="500"
               height="270"
               style="border-radius:10px;"
